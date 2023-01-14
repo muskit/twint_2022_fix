@@ -1,3 +1,11 @@
+# About this fork
+
+This fork of Twint builds off of kevctae's fix that made this library functional in 2022.
+
+### muskit's changes
+**2023:**
+- [get.py:`Username`] convert input type of `userId` to `string`
+
 # TWINT - Twitter Intelligence Tool
 ![2](https://i.imgur.com/iaH3s7z.png)
 ![3](https://i.imgur.com/hVeCrqL.png)
